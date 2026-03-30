@@ -1,0 +1,1 @@
+plugins {\n    kotlin("jvm") version "1.5.21"\n}\n\ndependencies {\n    implementation("org.jetbrains.kotlin:kotlin-stdlib")\n    testImplementation("org.jetbrains.kotlin:kotlin-test")\n}
